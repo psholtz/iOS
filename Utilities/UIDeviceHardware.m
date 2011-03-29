@@ -1,9 +1,13 @@
 //
 //  UIDeviceHardware.m
-//  Sample
 //
-//  Created by Engineer on 3/28/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Determines the exact hardware platform on which iOS software is running.
+//
+//  Example usage:
+//
+//    UIDeviceHardware *h = [[UIDeviceHardware alloc] init];
+//    NSLog(@"%@", h.platformString);
+//    [h release];
 //
 
 #import "UIDeviceHardware.h"
