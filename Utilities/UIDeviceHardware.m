@@ -36,7 +36,7 @@
 	if ( [platform isEqualToString:@"iPad2,1"] )    return @"iPad 2 (WiFi)";
 	if ( [platform isEqualToString:@"iPad2,2"] )    return @"iPad 2 (GSM)";
 	if ( [platform isEqualToString:@"iPad2,3"] )    return @"iPad 2 (CDMA)";	
-	if ( [platform isEqualToString:@"i386"] )		return @"iPhone Simulator";
+	if ( [platform isEqualToString:@"i386"] )	return @"iPhone Simulator";
 	return platform;
 }
 
