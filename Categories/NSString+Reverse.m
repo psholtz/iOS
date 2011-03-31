@@ -6,7 +6,7 @@
 //  Example syntax might be something like:
 //
 //   NSString *one = "test string";
-//   NSString *two = [one reverse];
+//   NSString *two = [one reverseString];
 //   NSLog(@"++ first: %@",one);
 //   NSLog(@"++ second: %@",two);
 //
