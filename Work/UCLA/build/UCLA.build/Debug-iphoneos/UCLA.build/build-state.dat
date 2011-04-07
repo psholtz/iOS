@@ -1,0 +1,536 @@
+TUCLA
+v7
+r0
+t323844826.986845
+cCheck dependencies
+cCpResource build/Debug-iphoneos/UCLA.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/Info.plist" UCLA-Info.plist
+cCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib"
+cCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib"
+cCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib"
+cCpResource build/Debug-iphoneos/UCLA.app/background.jpg background.jpg
+cProcessPCH /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch.gch UCLA_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/main.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/UCLAAppDelegate.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/RootViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/DetailViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/PushableButton.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/QuestionViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/Model.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/ControlGroup.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA" normal armv7
+cGenerateDSYMFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app.dSYM" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA"
+cProcessProductPackaging "/Users/buyer/Library/MobileDevice/Provisioning Profiles/895DAB5C-1FF8-4D7E-A2AE-8818968092C5.mobileprovision" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/embedded.mobileprovision"
+cTouch "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent"
+cCodeSign "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D49500000000000000C4
+t1297405077
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D608000000000026CB10
+t1297405448
+s2542352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.h
+c000000004D9AC46300000000000002AB
+t1301988451
+s683
+i<Foundation/Foundation.h>
+i"PushableButton.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m
+c000000004D9AC5350000000000000722
+t1301988661
+s1826
+i"ControlGroup.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.h
+c000000004D9A8D040000000000000246
+t1301974276
+s582
+i<UIKit/UIKit.h>
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m
+c000000004D9A92A60000000000000F01
+t1301975718
+s3841
+i"DetailViewController.h"
+i"RootViewController.h"
+i"QuestionViewController.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.h
+c000000004D9AB2B5000000000000011C
+t1301983925
+s284
+i<Foundation/Foundation.h>
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m
+c000000004D9ABC42000000000000032F
+t1301986370
+s815
+i"Model.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.h
+c000000004D9AC7790000000000000573
+t1301989241
+s1395
+i<UIKit/UIKit.h>
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m
+c000000004D9AC3AD0000000000000E8C
+t1301988269
+s3724
+i<QuartzCore/QuartzCore.h>
+i"PushableButton.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.h
+c000000004D9AC4B400000000000004AE
+t1301988532
+s1198
+i<UIKit/UIKit.h>
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m
+c000000004D9AC4B40000000000000C4D
+t1301988532
+s3149
+i<QuartzCore/QuartzCore.h>
+i"QuestionViewController.h"
+i"Model.h"
+i"PushableButton.h"
+i"ControlGroup.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib
+c000000004D9AC4C60000000000008984
+t1301988550
+s35204
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.h
+c000000004D9A88A40000000000000182
+t1301973156
+s386
+i<UIKit/UIKit.h>
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m
+c000000004D9A88A400000000000010B8
+t1301973156
+s4280
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.h
+c000000004D9A88A40000000000000300
+t1301973156
+s768
+i<UIKit/UIKit.h>
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m
+c000000004D9A88A400000000000007CC
+t1301973156
+s1996
+i"UCLAAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib
+c000000004D9A8E190000000000004F7C
+t1301974553
+s20348
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib
+c000000004D9A88A400000000000069BC
+t1301973156
+s27068
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch
+c000000004D9A88A4000000000000013A
+t1301973156
+s314
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/background.jpg
+c000000004D9AA11A000000000005F3BC
+t1301979418
+s390076
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app
+t1301989315
+s442
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app.dSYM
+t1301989311
+s102
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/DetailView.nib
+t1301978988
+s1163
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/Info.plist
+t1301978984
+s1040
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/MainWindow.nib
+t1301973759
+s1931
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/PkgInfo
+t1301978984
+s8
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/QuestionViewController.nib
+t1301989304
+s2553
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/ResourceRules.plist
+t1301973746
+s485
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA
+t1301989311
+s61568
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/background.jpg
+t1301982073
+s390076
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/embedded.mobileprovision
+t1301973767
+s7229
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/ControlGroup.o
+t1301989308
+s44568
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/DetailViewController.o
+t1301989307
+s52248
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/Model.o
+t1301987124
+s9028
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/PushableButton.o
+t1301989308
+s53540
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/QuestionViewController.o
+t1301989308
+s54904
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/RootViewController.o
+t1301978991
+s45844
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/UCLA.LinkFileList
+c000000004D9AC0B3000000000000044E
+t1301987507
+s1102
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/UCLAAppDelegate.o
+t1301978991
+s53560
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/main.o
+t1301973764
+s6468
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent
+t1301978997
+s414
+
+N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m
+c000000004D9A88A4000000000000015E
+t1301973156
+s350
+i<UIKit/UIKit.h>
+
+N/Users/buyer/Library/MobileDevice/Provisioning Profiles/895DAB5C-1FF8-4D7E-A2AE-8818968092C5.mobileprovision
+c000000004D97D8C00000000000001C3D
+t1301797056
+s7229
+
+N/var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch.gch
+t1301973764
+s10647452
+
+NUCLA-Info.plist
+c000000004D9A8BE400000000000004A5
+t1301973988
+s1189
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323844815#323844815#0(0"0(0#1#0"2481144464#0"0#
+
+CCodeSign "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"
+s323844815.819582
+e323844826.986690
+r1
+xCodeSign
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app
+o/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app: replacing existing signature
+lSLF07#2@38"CodeSign build/Debug-iphoneos/UCLA.app323844815#323844826#0(117"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app: replacing existing signature0(0#0#86"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app2481144464#712"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Paul Sholtz (JEJ2Z7UNH2)" "--resource-rules=/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/ResourceRules.plist" --entitlements "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/ControlGroup.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323682108.430215
+e323682108.542881
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/ControlGroup.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m323682108#323682108#0(0"0(0#0#79"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m2481144464#1908"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/ControlGroup.o"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/DetailViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323682104.746127
+e323682107.785939
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/DetailViewController.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m323682104#323682107#0(0"0(0#0#87"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m2481144464#1924"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/DetailViewController.o"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/Model.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323679924.836672
+e323679924.941192
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/Model.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m323679924#323679924#0(0"0(0#0#72"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m2481144464#1894"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/Model.o"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/PushableButton.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323682107.786224
+e323682108.274100
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/PushableButton.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m323682107#323682108#0(0"0(0#0#81"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m2481144464#1912"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/PushableButton.o"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/QuestionViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323682108.274248
+e323682108.430050
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/QuestionViewController.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m323682108#323682108#0(0"0(0#0#89"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m2481144464#1928"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/QuestionViewController.o"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/RootViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323671791.846953
+e323671791.966818
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/RootViewController.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m323671791#323671791#0(0"0(0#0#85"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m2481144464#1920"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/RootViewController.o"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/UCLAAppDelegate.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323671788.380348
+e323671791.846573
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/UCLAAppDelegate.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m323671788#323671791#0(0"0(0#0#82"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m2481144464#1914"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/UCLAAppDelegate.o"0#
+
+CCompileC build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/main.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323666564.781330
+e323666564.970883
+r1
+xCompileC
+xbuild/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/main.o
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m323666564#323666564#0(0"0(0#0#63"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m2481144464#1884"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib"
+s323682101.370285
+e323682104.745177
+r1
+xCompileXIB
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib
+lSLF07#2@45"CompileXIB Classes/QuestionViewController.xib323682101#323682104#0(0"0(0#0#91"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib2481144464#631"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/QuestionViewController.nib" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib"
+s323671784.260172
+e323671788.212084
+r1
+xCompileXIB
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib323671784#323671788#0(0"0(0#0#71"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib2481144464#599"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/DetailView.nib" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib"
+s323666546.345294
+e323666560.174347
+r1
+xCompileXIB
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323666546#323666560#0(0"0(0#0#71"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib2481144464#599"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/MainWindow.nib" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/UCLA.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s323666546.149287
+e323666546.345127
+r1
+xCpResource
+xbuild/Debug-iphoneos/UCLA.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist323666546#323666546#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist2481144464#531"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"0#
+
+CCpResource build/Debug-iphoneos/UCLA.app/background.jpg background.jpg
+s323674872.752963
+e323674873.693663
+r1
+xCpResource
+xbuild/Debug-iphoneos/UCLA.app/background.jpg
+xbackground.jpg
+lSLF07#2@19"Copy background.jpg323674872#323674873#0(0"0(0#0#71"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/background.jpg2481144464#515"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/background.jpg" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"0#
+
+CGenerateDSYMFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app.dSYM" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA"
+s323682111.498044
+e323682111.599252
+r1
+xGenerateDSYMFile
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app.dSYM
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA
+lSLF07#2@86"GenerateDSYMFile build/Debug-iphoneos/UCLA.app.dSYM build/Debug-iphoneos/UCLA.app/UCLA323682111#323682111#0(0"0(0#0#91"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA2481144464#413"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app.dSYM"0#
+
+CLd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA" normal armv7
+s323682108.543006
+e323682111.497785
+r1
+xLd
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA
+xnormal
+xarmv7
+lSLF07#2@96"Link /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA323682108#323682111#0(0"0(0#0#0"2481144464#929"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" -filelist "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/Objects-normal/armv7/UCLA.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/UCLA"0#
+
+CProcessInfoPlistFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/Info.plist" UCLA-Info.plist
+s323671784.107292
+e323671784.259919
+r1
+xProcessInfoPlistFile
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/Info.plist
+xUCLA-Info.plist
+lSLF07#2@23"Process UCLA-Info.plist323671784#323671784#0(0"0(0#0#72"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA-Info.plist2481144464#630"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UCLA-Info.plist -genpkginfo "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/ResourceRules.plist" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/Info.plist"0#
+
+CProcessPCH /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch.gch UCLA_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323666561.064045
+e323666564.781077
+r1
+xProcessPCH
+x/var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch.gch
+xUCLA_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile UCLA_Prefix.pch323666561#323666564#0(0"0(0#0#72"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch2481144464#1765"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources/armv7" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/DerivedSources" -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch" -o /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-deuqpwpflwjauaauaqwiqvpjyrfv/UCLA_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/buyer/Library/MobileDevice/Provisioning Profiles/895DAB5C-1FF8-4D7E-A2AE-8818968092C5.mobileprovision" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/embedded.mobileprovision"
+s323666567.630377
+e323666567.674152
+r1
+xProcessProductPackaging
+x/Users/buyer/Library/MobileDevice/Provisioning Profiles/895DAB5C-1FF8-4D7E-A2AE-8818968092C5.mobileprovision
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/embedded.mobileprovision
+lSLF07#2@189"ProcessProductPackaging "/Users/buyer/Library/MobileDevice/Provisioning Profiles/895DAB5C-1FF8-4D7E-A2AE-8818968092C5.mobileprovision" build/Debug-iphoneos/UCLA.app/embedded.mobileprovision323666567#323666567#0(0"0(0#0#111"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/embedded.mobileprovision2481144464#460"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/buyer/Library/MobileDevice/Provisioning Profiles/895DAB5C-1FF8-4D7E-A2AE-8818968092C5.mobileprovision" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent"
+s323671797.303053
+e323671797.366781
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent323671797#323671797#0(0"0(0#0#110"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent2481144464#463"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphoneos/UCLA.build/UCLA.xcent"0#
+
+CTouch "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"
+s323682111.599540
+e323682111.603853
+r1
+xTouch
+x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app
+lSLF07#2@92"Touch /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app323682111#323682111#0(0"0(0#0#0"2481144464#301"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphoneos/UCLA.app"0#
+
