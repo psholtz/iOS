@@ -1,561 +1,0 @@
-TUCLA
-v7
-r0
-t323848446.329770
-cCheck dependencies
-cProcessInfoPlistFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/Info.plist" UCLA-Info.plist
-cCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib"
-cCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib"
-cCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib"
-cCpResource build/Debug-iphonesimulator/UCLA.app/background.jpg background.jpg
-cProcessPCH /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch.gch UCLA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/main.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/UCLAAppDelegate.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/RootViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/DetailViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/PushableButton.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/QuestionViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/Model.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ControlGroup.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ArrowButton.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA" normal i386
-cGenerateDSYMFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app.dSYM" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA"
-cTouch "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
-c000000004D5C9B4E0000000000000110
-t1297914702
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004D54CFFA00000000002999B0
-t1297403898
-s2726320
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004D54CFE5000000000029DA70
-t1297403877
-s2742896
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004D54CFB80000000000001466
-t1297403832
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c000000004D54D2DD00000000000000C4
-t1297404637
-s196
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004D54D4200000000000162C50
-t1297404960
-s1453136
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004D5615B40000000000000AA1
-t1297487284
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004D5616030000000000766870
-t1297487363
-s7759984
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
-c000000004D4F7A2B0000000000001B19
-t1297054251
-s6937
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.h
-c000000004D9D4D5000000000000002BF
-t1302154576
-s703
-i<UIKit/UIKit.h>
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.m
-c000000004D9D4B2300000000000006A0
-t1302154019
-s1696
-i<QuartzCore/QuartzCore.h>
-i"ArrowButton.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.h
-c000000004D9D44010000000000000357
-t1302152193
-s855
-i<Foundation/Foundation.h>
-i"PushableButton.h"
-i"ArrowButton.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m
-c000000004D9D49E30000000000000752
-t1302153699
-s1874
-i"ControlGroup.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.h
-c000000004D9D5176000000000000032A
-t1302155638
-s810
-i<UIKit/UIKit.h>
-i"ArrowButton.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m
-c000000004D9D517600000000000010D0
-t1302155638
-s4304
-i"DetailViewController.h"
-i"RootViewController.h"
-i"QuestionViewController.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.h
-c000000004D9AB2B5000000000000011C
-t1301983925
-s284
-i<Foundation/Foundation.h>
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m
-c000000004D9D45890000000000000310
-t1302152585
-s784
-i"Model.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.h
-c000000004D9AC7790000000000000573
-t1301989241
-s1395
-i<UIKit/UIKit.h>
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m
-c000000004D9D45AC0000000000000DC8
-t1302152620
-s3528
-i<QuartzCore/QuartzCore.h>
-i"PushableButton.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.h
-c000000004D9D44730000000000000561
-t1302152307
-s1377
-i<UIKit/UIKit.h>
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m
-c000000004D9D4FD60000000000000937
-t1302155222
-s2359
-i<QuartzCore/QuartzCore.h>
-i"QuestionViewController.h"
-i"Model.h"
-i"PushableButton.h"
-i"ControlGroup.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib
-c000000004D9D451900000000000097EE
-t1302152473
-s38894
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.h
-c000000004D9A88A40000000000000182
-t1301973156
-s386
-i<UIKit/UIKit.h>
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m
-c000000004D9D460E0000000000000992
-t1302152718
-s2450
-i"RootViewController.h"
-i"DetailViewController.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.h
-c000000004D9A88A40000000000000300
-t1301973156
-s768
-i<UIKit/UIKit.h>
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m
-c000000004D9A88A400000000000007CC
-t1301973156
-s1996
-i"UCLAAppDelegate.h"
-i"RootViewController.h"
-i"DetailViewController.h"
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib
-c000000004D9A8E190000000000004F7C
-t1301974553
-s20348
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib
-c000000004D9A88A400000000000069BC
-t1301973156
-s27068
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch
-c000000004D9A88A4000000000000013A
-t1301973156
-s314
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/background.jpg
-c000000004D9AA11A000000000005F3BC
-t1301979418
-s390076
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app
-t1302155639
-s306
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app.dSYM
-t1302155639
-s102
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/DetailView.nib
-t1301974562
-s1163
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/Info.plist
-t1301973992
-s792
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/MainWindow.nib
-t1301973364
-s1931
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/PkgInfo
-t1301973992
-s8
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/QuestionViewController.nib
-t1302152482
-s2830
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA
-t1302155639
-s63828
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/background.jpg
-t1301979494
-s390076
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ArrowButton.o
-t1302154577
-s46968
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ControlGroup.o
-t1302154577
-s48092
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/DetailViewController.o
-t1302155639
-s60464
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/Model.o
-t1302152587
-s8944
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/PushableButton.o
-t1302152621
-s55816
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/QuestionViewController.o
-t1302155222
-s59212
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/RootViewController.o
-t1302155639
-s46588
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/UCLA.LinkFileList
-c000000004D9D439C000000000000050B
-t1302152092
-s1291
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/UCLAAppDelegate.o
-t1302155639
-s54572
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/main.o
-t1301973366
-s6348
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/StaticAnalyzer/normal/i386/DetailViewController.plist
-t2
-s0
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/StaticAnalyzer/normal/i386/PushableButton.plist
-t2
-s0
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/StaticAnalyzer/normal/i386/RootViewController.plist
-t2
-s0
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/StaticAnalyzer/normal/i386/UCLAAppDelegate.plist
-t2
-s0
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/StaticAnalyzer/normal/i386/main.plist
-t2
-s0
-
-N/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m
-c000000004D9A88A4000000000000015E
-t1301973156
-s350
-i<UIKit/UIKit.h>
-
-N/var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-cgxzqothsdsorsahcjrnwxjhqihw/UCLA_Prefix.pch.pth
-t2
-s0
-
-N/var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-crklqmdwwrdyopawsnywznsavsnr/UCLA_Prefix.pch.gch
-t1301973181
-s10626972
-
-N/var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch.gch
-t1301973365
-s10631068
-
-NUCLA-Info.plist
-c000000004D9A8BE400000000000004A5
-t1301973988
-s1189
-
-CAnalyze "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m"
-r0
-
-CAnalyze "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m"
-r0
-
-CAnalyze "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m"
-r0
-
-CAnalyze "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m"
-r0
-
-CAnalyze "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m"
-r0
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies323848446#323848446#0(0"0(0#1#0"2481144464#0"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ArrowButton.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323847377.494851
-e323847377.658111
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ArrowButton.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.m323847377#323847377#0(0"0(0#0#78"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.m2481144464#2096"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ArrowButton.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ArrowButton.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ControlGroup.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323847377.360960
-e323847377.494702
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ControlGroup.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m323847377#323847377#0(0"0(0#0#79"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m2481144464#2098"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/ControlGroup.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/ControlGroup.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/DetailViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323848439.191146
-e323848439.448956
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/DetailViewController.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@95"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m323848439#323848439#0(0"0(0#0#87"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m2481144464#2114"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/DetailViewController.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/DetailViewController.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/Model.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323845385.910018
-e323845387.090530
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/Model.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m323845385#323845387#0(0"0(0#0#72"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m2481144464#2084"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/Model.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/Model.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/PushableButton.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323845421.074250
-e323845421.402545
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/PushableButton.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m323845421#323845421#0(0"0(0#0#81"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m2481144464#2102"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/PushableButton.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/PushableButton.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/QuestionViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323848022.708468
-e323848022.979465
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/QuestionViewController.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@97"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m323848022#323848022#0(0"0(0#0#89"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m2481144464#2118"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/QuestionViewController.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/RootViewController.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323848439.040576
-e323848439.190991
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/RootViewController.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m323848439#323848439#0(0"0(0#0#85"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m2481144464#2110"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/RootViewController.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/RootViewController.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/UCLAAppDelegate.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323848438.882902
-e323848439.040420
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/UCLAAppDelegate.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m323848438#323848439#0(0"0(0#0#82"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m2481144464#2104"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/UCLAAppDelegate.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/UCLAAppDelegate.o"0#
-
-CCompileC build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/main.o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s323666165.913845
-e323666166.028823
-r1
-xCompileC
-xbuild/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/main.o
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m323666165#323666166#0(0"0(0#0#63"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m2481144464#2074"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -include /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/main.m" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib"
-s323845277.361274
-e323845282.984404
-r1
-xCompileXIB
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib
-lSLF07#2@45"CompileXIB Classes/QuestionViewController.xib323845277#323845282#0(0"0(0#0#91"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib2481144464#659"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/QuestionViewController.nib" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/Classes/QuestionViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
-
-CCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib"
-s323667360.567795
-e323667362.539127
-r1
-xCompileXIB
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib
-lSLF07#2@25"CompileXIB DetailView.xib323667360#323667362#0(0"0(0#0#71"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib2481144464#627"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/DetailView.nib" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/DetailView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
-
-CCompileXIB "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib"
-s323666162.032658
-e323666164.283270
-r1
-xCompileXIB
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib323666162#323666164#0(0"0(0#0#71"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib2481144464#627"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/MainWindow.nib" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
-
-CCpResource build/Debug-iphonesimulator/UCLA.app/background.jpg background.jpg
-s323672294.323215
-e323672294.676696
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/UCLA.app/background.jpg
-xbackground.jpg
-lSLF07#2@19"Copy background.jpg323672294#323672294#0(0"0(0#0#71"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/background.jpg2481144464#529"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/background.jpg" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app"0#
-
-CGenerateDSYMFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app.dSYM" "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA"
-s323848439.543411
-e323848439.619679
-r1
-xGenerateDSYMFile
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app.dSYM
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA
-lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/UCLA.app.dSYM build/Debug-iphonesimulator/UCLA.app/UCLA323848439#323848439#0(0"0(0#0#98"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA2481144464#434"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA" -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app.dSYM"0#
-
-CLd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA" normal i386
-s323848439.449093
-e323848439.543233
-r1
-xLd
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA
-xnormal
-xi386
-lSLF07#2@103"Link /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA323848439#323848439#0(0"0(0#0#0"2481144464#1007"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" -filelist "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/Objects-normal/i386/UCLA.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/UCLA"0#
-
-CProcessInfoPlistFile "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/Info.plist" UCLA-Info.plist
-s323666792.040016
-e323666792.051589
-r1
-xProcessInfoPlistFile
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/Info.plist
-xUCLA-Info.plist
-lSLF07#2@23"Process UCLA-Info.plist323666792#323666792#0(0"0(0#0#72"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA-Info.plist2481144464#530"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UCLA-Info.plist -genpkginfo "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app/Info.plist"0#
-
-CProcessPCH /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-cgxzqothsdsorsahcjrnwxjhqihw/UCLA_Prefix.pch.pth UCLA_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
-r0
-
-CProcessPCH /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-crklqmdwwrdyopawsnywznsavsnr/UCLA_Prefix.pch.gch UCLA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s323665971.790512
-e323665981.302501
-r1
-xProcessPCH
-x/var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-crklqmdwwrdyopawsnywznsavsnr/UCLA_Prefix.pch.gch
-xUCLA_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@26"Precompile UCLA_Prefix.pch323665971#323665981#0(0"0(0#0#72"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch2481144464#1949"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch" -o /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-crklqmdwwrdyopawsnywznsavsnr/UCLA_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch.gch UCLA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s323666164.283442
-e323666165.913603
-r1
-xProcessPCH
-x/var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch.gch
-xUCLA_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@26"Precompile UCLA_Prefix.pch323666164#323666165#0(0"0(0#0#72"/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch2481144464#1949"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-generated-files.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-own-target-headers.hmap" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-all-target-headers.hmap" -iquote "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/UCLA-project-headers.hmap" "-F/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/include" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources/i386" "-I/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/UCLA.build/Debug-iphonesimulator/UCLA.build/DerivedSources" -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/UCLA_Prefix.pch" -o /var/folders/7T/7TD15xLLHguvPwKqdI669k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/UCLA_Prefix-dcrfopckuqnosvcazxhthqbmfubc/UCLA_Prefix.pch.gch0#
-
-CTouch "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app"
-s323848439.619810
-e323848439.624055
-r1
-xTouch
-x/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app
-lSLF07#2@99"Touch /Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app323848439#323848439#0(0"0(0#0#0"2481144464#315"    cd "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/buyer/Documents/X-Code Projects/Web/iOS/Work/UCLA/build/Debug-iphonesimulator/UCLA.app"0#
-
