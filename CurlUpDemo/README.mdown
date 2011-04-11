@@ -3,10 +3,12 @@ CurlUpDemo
 
 The are two primary ways in iOS in which to model the dynamic "curl up" method of changing between views.
 
-One way uses UIView, and its use is (more or less) discouraged as of iOS4. 
+One way uses UIView, and its use is now (more or less) discouraged as of iOS4. 
 
 The second way uses Core Animation services.
 
 This project provides sample code that demonstrates both methods.
 
 The Core Animation code is based on an example provided by Erica Sadun.
+
+The Core Animation code as demonstrates how to "curl up" the page only a fraction of way, which is a pretty neat effect.
