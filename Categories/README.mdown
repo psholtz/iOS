@@ -7,4 +7,6 @@ Categories allow a programmer to dynamically mix-in new methods to an object at 
 
 These methods have full access to all instance variables of the objects.
 
-Categories do not, however, allow the programmer to dynamically add new instance variables. For this, the class in question must be subclassed.
+Categories do not, however, allow the programmer to dynamically add new instance variables. To do this, the class in question must be subclassed.
+
+The NSString+Reverse class provides a simple demonstration of how to use categories in Objective-C.
