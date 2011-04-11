@@ -1,0 +1,8 @@
+Categories
+==========
+
+Objective-C allows programmers to dynamically augment the capability of compiled classes by using categories. 
+
+Categories allow a programmer to dynamically mix-in new methods to an object at run-time. 
+
+Categories allow 
