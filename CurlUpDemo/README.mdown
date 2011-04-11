@@ -11,4 +11,6 @@ This project provides sample code that demonstrates both methods.
 
 The Core Animation code is based on an example provided by Erica Sadun.
 
-The Core Animation code as demonstrates how to "curl up" the page only a fraction of way, which is a pretty neat effect.
+The Core Animation code also demonstrates how to "curl up" the page only a fraction of way, which is a pretty neat effect.
+
+[![](http://farm6.static.flickr.com/5304/5608648752_08c0b5c877_z.jpg)](http://farm6.static.flickr.com/5304/5608648752_08c0b5c877_z.jpg)
