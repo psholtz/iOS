@@ -2,7 +2,6 @@
 //  TouchableScrollViewAppDelegate.h
 //  TouchableScrollView
 //
-//
 
 #import <UIKit/UIKit.h>
 

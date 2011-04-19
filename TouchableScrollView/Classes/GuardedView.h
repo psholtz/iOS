@@ -2,7 +2,6 @@
 //  GuardedView.h
 //  TouchableScrollView
 //
-//
 
 #import <Foundation/Foundation.h>
 

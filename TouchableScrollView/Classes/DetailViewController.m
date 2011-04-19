@@ -2,7 +2,6 @@
 //  DetailViewController.m
 //  TouchableScrollView
 //
-//
 
 #import <QuartzCore/QuartzCore.h>
 #import "TouchableScrollViewAppDelegate.h"

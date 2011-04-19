@@ -2,7 +2,6 @@
 //  GuardedView.m
 //  TouchableScrollView
 //
-//
 
 #import "GuardedView.h"
 

@@ -2,7 +2,6 @@
 //  main.m
 //  TouchableScrollView
 //
-//
 
 #import <UIKit/UIKit.h>
 

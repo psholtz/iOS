@@ -2,7 +2,6 @@
 //  TouchableScrollViewAppDelegate.m
 //  TouchableScrollView
 //
-//
 
 #import "TouchableScrollViewAppDelegate.h"
 #import "MainViewController.h"

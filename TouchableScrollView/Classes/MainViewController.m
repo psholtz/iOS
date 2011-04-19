@@ -2,7 +2,6 @@
 //  MainViewController.m
 //  TouchableScrollView
 //
-//
 
 #import "MainViewController.h"
 #import "DetailViewController.h"
