@@ -2,8 +2,6 @@
 //  DetailViewController.m
 //  TouchableScrollView
 //
-//  Created by Engineer on 4/18/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
 #import <QuartzCore/QuartzCore.h>
@@ -48,7 +46,6 @@ float DURATION = 0.5f;
 	
 	// configure the TouchableScrollView
 	GET_DELEGATE;
-	//delegate.viewController.scrollView.guard = self.guard;
 	[delegate.viewController.scrollView addGuardedView:self.guard];
 	
 	// configure the rounded corners; 
