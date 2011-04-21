@@ -34,7 +34,11 @@ enum { kSplashScreenFadeMode };
 - (void)viewDidLoad {	
 	self.view.layer.contents = (id)self.splashImage.CGImage;
 	self.view.contentMode = UIViewContentModeBottom;
-	self.view.frame = CGRectMake(0, 0, 320, 480);
+	if ( UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad ) { 
+		self.view.frame = CGRectMake(0, 0, 768, 1024);
+	} else { 
+		self.view.frame = CGRectMake(0, 0, 320, 480);
+	}
 }
 
 - (void)viewDidAppear:(BOOL)animated {
