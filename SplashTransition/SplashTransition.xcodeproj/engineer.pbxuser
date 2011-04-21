@@ -1,0 +1,227 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SplashTransitionAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 393}}";
+			sepNavSelRange = "{403, 0}";
+			sepNavVisRange = "{0, 411}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SplashTransitionAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 455}}";
+			sepNavSelRange = "{141, 0}";
+			sepNavVisRange = "{0, 722}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SplashTransition */ = {
+		activeExec = 0;
+		executables = (
+			E8C74358135FB866005AB541 /* SplashTransition */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E8C74358135FB866005AB541 /* SplashTransition */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SplashTransition */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SplashTransition */,
+		);
+		codeSenseManager = E8C7436E135FB883005AB541 /* Code sense */;
+		executables = (
+			E8C74358135FB866005AB541 /* SplashTransition */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					439,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325040560;
+			PBXWorkspaceStateSaveDate = 325040560;
+		};
+		perUserProjectItems = {
+			E8201D01135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D01135FBD5400EAE8B1 /* PBXTextBookmark */;
+			E8201D02135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D02135FBD5400EAE8B1 /* PBXTextBookmark */;
+			E8201D03135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D03135FBD5400EAE8B1 /* PBXTextBookmark */;
+			E8201D04135FBD5400EAE8B1 /* PlistBookmark */ = E8201D04135FBD5400EAE8B1 /* PlistBookmark */;
+			E8201D05135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D05135FBD5400EAE8B1 /* PBXTextBookmark */;
+			E8201D06135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D06135FBD5400EAE8B1 /* PBXTextBookmark */;
+			E8201D07135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D07135FBD5400EAE8B1 /* PBXTextBookmark */;
+			E8201D1D135FBD9700EAE8B1 /* PBXTextBookmark */ = E8201D1D135FBD9700EAE8B1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E8C7436D135FB883005AB541 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 416}}";
+			sepNavSelRange = "{34, 0}";
+			sepNavVisRange = "{0, 268}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SplashTransition_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 393}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 201}";
+		};
+	};
+	E8201CBA135FBAFE00EAE8B1 /* SplashScreenViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 455}}";
+			sepNavSelRange = "{56, 0}";
+			sepNavVisRange = "{57, 720}";
+		};
+	};
+	E8201CBB135FBAFE00EAE8B1 /* SplashScreenViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 1157}}";
+			sepNavSelRange = "{400, 0}";
+			sepNavVisRange = "{60, 881}";
+		};
+	};
+	E8201D01135FBD5400EAE8B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 3";
+		rLen = 0;
+		rLoc = 34;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 0;
+	};
+	E8201D02135FBD5400EAE8B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E8201CBA135FBAFE00EAE8B1 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 3";
+		rLen = 0;
+		rLoc = 56;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 57;
+	};
+	E8201D03135FBD5400EAE8B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SplashTransition_Prefix.pch */;
+		name = "SplashTransition_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 201;
+		vrLoc = 0;
+	};
+	E8201D04135FBD5400EAE8B1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SplashTransition-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = "/Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	E8201D05135FBD5400EAE8B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SplashTransitionAppDelegate.h */;
+		name = "SplashTransitionAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 403;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	E8201D06135FBD5400EAE8B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SplashTransitionAppDelegate.m */;
+		name = "SplashTransitionAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 0;
+	};
+	E8201D07135FBD5400EAE8B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E8201CBB135FBAFE00EAE8B1 /* SplashScreenViewController.m */;
+		name = "SplashScreenViewController.m: 15";
+		rLen = 0;
+		rLoc = 310;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 0;
+	};
+	E8201D1D135FBD9700EAE8B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E8201CBB135FBAFE00EAE8B1 /* SplashScreenViewController.m */;
+		name = "SplashScreenViewController.m: 20";
+		rLen = 0;
+		rLoc = 400;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 60;
+	};
+	E8C74358135FB866005AB541 /* SplashTransition */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SplashTransition;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E8C7436D135FB883005AB541 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E8C7436E135FB883005AB541 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
