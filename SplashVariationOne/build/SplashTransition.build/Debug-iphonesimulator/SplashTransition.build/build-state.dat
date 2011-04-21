@@ -1,0 +1,782 @@
+TSplashTransition
+v7
+r0
+t325097256.287279
+cCheck dependencies
+cProcessInfoPlistFile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/Info.plist SplashTransition-Info.plist
+cCompileXIB /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/SplashTransition.app/Default.png Default.png
+cProcessPCH /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch.gch SplashTransition_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/LoadingView.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/StartView.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition normal i386
+cGenerateDSYMFile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app.dSYM /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+cTouch /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D797E6B0000000000000110
+t1299807851
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashScreenViewController.h
+c000000004DB0516C0000000000000309
+t1303400812
+s777
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashScreenViewController.m
+c000000004DB0516C0000000000000843
+t1303400812
+s2115
+i<QuartzCore/QuartzCore.h>
+i"SplashScreenViewController.h"
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashTransitionAppDelegate.h
+c000000004DB0516C000000000000019B
+t1303400812
+s411
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashTransitionAppDelegate.m
+c000000004DB0516C00000000000002DA
+t1303400812
+s730
+i"SplashTransitionAppDelegate.h"
+i"SplashScreenViewController.h"
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Default.png
+c000000004DB0516C0000000000006F82
+t1303400812
+s28546
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/MainWindow.xib
+c000000004DB0516C0000000000002135
+t1303400812
+s8501
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/SplashTransition_Prefix.pch
+c000000004DB0516C00000000000000C9
+t1303400812
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app
+t1303400932
+s238
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM
+t1303400932
+s102
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Default.png
+t1303400812
+s28546
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Info.plist
+t1303400812
+s660
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/MainWindow.nib
+t1303400812
+s1540
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/PkgInfo
+t1303400812
+s8
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+t1303400932
+s18952
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o
+t1303400931
+s51608
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransition.LinkFileList
+c000000004DB051E10000000000000210
+t1303400929
+s528
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o
+t1303400931
+s50616
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o
+t1303400931
+s6352
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/main.m
+c000000004DB0516C000000000000010C
+t1303400812
+s268
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.h
+c000000004DB05EFC0000000000000195
+t1303404284
+s405
+i<Foundation/Foundation.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.m
+c000000004DB05F9600000000000004E1
+t1303404438
+s1249
+i<QuartzCore/QuartzCore.h>
+i"LoadingView.h"
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.h
+c000000004DB05BEC00000000000003FA
+t1303403500
+s1018
+i<UIKit/UIKit.h>
+i"LoadingView.h"
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.m
+c000000004DB05DE60000000000000ACD
+t1303404006
+s2765
+i<QuartzCore/QuartzCore.h>
+i"SplashScreenViewController.h"
+i"LoadingView.h"
+i"StartView.h"
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.h
+c000000004DB0516C000000000000019B
+t1303400812
+s411
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.m
+c000000004DB0516C00000000000002DA
+t1303400812
+s730
+i"SplashTransitionAppDelegate.h"
+i"SplashScreenViewController.h"
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.h
+c000000004DB05D8F000000000000012C
+t1303403919
+s300
+i<Foundation/Foundation.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.m
+c000000004DB05E1D000000000000048B
+t1303404061
+s1163
+i<QuartzCore/QuartzCore.h>
+i"StartView.h"
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Default.png
+c000000004DB0516C0000000000006F82
+t1303400812
+s28546
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/MainWindow.xib
+c000000004DB0516C0000000000002135
+t1303400812
+s8501
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/SplashTransition_Prefix.pch
+c000000004DB0516C00000000000000C9
+t1303400812
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app
+t1303404439
+s238
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app.dSYM
+t1303404439
+s102
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/Default.png
+t1303400812
+s28546
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/Info.plist
+t1303400812
+s660
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/MainWindow.nib
+t1303400812
+s1540
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/PkgInfo
+t1303400812
+s8
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+t1303404439
+s31492
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/LoadingView.o
+t1303404439
+s46248
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o
+t1303404284
+s57188
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransition.LinkFileList
+c000000004DB05B100000000000000368
+t1303403280
+s872
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o
+t1303404284
+s51192
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/StartView.o
+t1303404061
+s44164
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o
+t1303402559
+s6356
+
+N/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/main.m
+c000000004DB0516C000000000000010C
+t1303400812
+s268
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.h
+c000000004DAF81C20000000000000315
+t1303347650
+s789
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m
+c000000004DAF824A0000000000000845
+t1303347786
+s2117
+i<QuartzCore/QuartzCore.h>
+i"PRPSplashViewController.h"
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashScreenViewController.h
+c000000004DAF83C10000000000000309
+t1303348161
+s777
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashScreenViewController.m
+c000000004DAF84DA0000000000000843
+t1303348442
+s2115
+i<QuartzCore/QuartzCore.h>
+i"SplashScreenViewController.h"
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.h
+c000000004DAF8487000000000000019B
+t1303348359
+s411
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m
+c000000004DAF84C900000000000002DA
+t1303348425
+s730
+i"SplashTransitionAppDelegate.h"
+i"SplashScreenViewController.h"
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Default.png
+c000000004DAF853B0000000000006F82
+t1303348539
+s28546
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/MainWindow.xib
+c000000004DAF80E60000000000002135
+t1303347430
+s8501
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition_Prefix.pch
+c000000004DAF80E600000000000000C9
+t1303347430
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app
+t1303348570
+s238
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM
+t1303348442
+s102
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Default.png
+t1303348570
+s28546
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Info.plist
+t1303348284
+s660
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/MainWindow.nib
+t1303347442
+s1540
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/PkgInfo
+t1303348284
+s8
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+t1303348442
+s18924
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/PRPSplashViewController.o
+t1303347786
+s51456
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o
+t1303348442
+s51596
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransition.LinkFileList
+c000000004DAF83810000000000000201
+t1303348097
+s513
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o
+t1303348425
+s50608
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o
+t1303347565
+s6340
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/StaticAnalyzer/normal/i386/PRPSplashViewController.plist
+t1303347524
+s276
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/StaticAnalyzer/normal/i386/SplashTransitionAppDelegate.plist
+t1303347524
+s276
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/StaticAnalyzer/normal/i386/main.plist
+t1303347524
+s276
+
+N/Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m
+c000000004DAF816D000000000000010C
+t1303347565
+s268
+i<UIKit/UIKit.h>
+
+N/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-aibbmnzrjdrpkleghfopyrhzszup/SplashTransition_Prefix.pch.pth
+t1303347524
+s3353060
+
+N/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch.gch
+t1303347443
+s15814064
+
+N/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch.gch
+t1303402559
+s15814064
+
+N/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-gremegybysocyedgnckgfbiwzoba/SplashTransition_Prefix.pch.gch
+t1303400931
+s15814064
+
+NSplashTransition-Info.plist
+c000000004DB0516C00000000000003B4
+t1303400812
+s948
+
+CAnalyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m
+s325040324.609604
+e325040324.658310
+r1
+xAnalyze
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m
+lSLF07#2@96"Analyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m325040324#325040324#0(0"0(0#0#88"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m8619602752#2332"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-aibbmnzrjdrpkleghfopyrhzszup/SplashTransition_Prefix.pch --analyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/StaticAnalyzer/normal/i386/PRPSplashViewController.plist0#
+
+CAnalyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m
+s325040324.578415
+e325040324.642261
+r1
+xAnalyze
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m
+lSLF07#2@100"Analyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m325040324#325040324#0(0"0(0#0#92"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m8617428640#2340"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-aibbmnzrjdrpkleghfopyrhzszup/SplashTransition_Prefix.pch --analyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/StaticAnalyzer/normal/i386/SplashTransitionAppDelegate.plist0#
+
+CAnalyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m
+s325040324.447088
+e325040324.609512
+r1
+xAnalyze
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m
+lSLF07#2@69"Analyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m325040324#325040324#0(0"0(0#0#61"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m8620149216#2286"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-aibbmnzrjdrpkleghfopyrhzszup/SplashTransition_Prefix.pch --analyze /Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325097256#325097256#0(0"0(0#1#0"8618107680#0"0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/LoadingView.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325097239.045680
+e325097239.219704
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/LoadingView.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.m325097239#325097239#0(0"0(0#0#83"/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.m8607821888#2376"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/LoadingView.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/LoadingView.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/PRPSplashViewController.o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325040586.314230
+e325040586.510957
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/PRPSplashViewController.o
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m: In function '-[PRPSplashViewController viewDidAppear:]':
+o/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m:41: warning: incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenDidAppear:' from distinct Objective-C type
+o/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m:44: warning: incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenWillDisappear:' from distinct Objective-C type
+o/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m: In function '-[PRPSplashViewController splashFadeDidStop:finished:context:]':
+o/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m:77: warning: incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenDidDisappear:' from distinct Objective-C type
+lSLF07#2@96"Compile /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m325040586#325040586#0(1228"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m: In function '-[PRPSplashViewController viewDidAppear:]':/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m:41: warning: incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenDidAppear:' from distinct Objective-C type/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m:44: warning: incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenWillDisappear:' from distinct Objective-C type/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m: In function '-[PRPSplashViewController splashFadeDidStop:finished:context:]':/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m:77: warning: incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenDidDisappear:' from distinct Objective-C type3(22@199"Incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenDidAppear:' from distinct Objective-C type325040586#147#302#0(6@88"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m325040586#41#0#41#0#0"0(22@203"Incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenWillDisappear:' from distinct Objective-C type325040586#449#306#0(6@88"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m325040586#44#0#44#0#0"0(22@202"Incompatible Objective-C types 'struct PRPSplashViewController *', expected 'struct PRPSplashScreenViewController *' when passing argument 1 of 'splashScreenDidDisappear:' from distinct Objective-C type325040586#923#305#0(6@88"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m325040586#77#0#77#0#0"0(0#0#88"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m7957695015293251584#2323"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/PRPSplashViewController.m -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/PRPSplashViewController.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325093731.685874
+e325093731.846201
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashScreenViewController.m325093731#325093731#0(0"0(0#0#96"/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashScreenViewController.m8603985152#2384"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-gremegybysocyedgnckgfbiwzoba/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashScreenViewController.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325097084.808448
+e325097084.937325
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.m325097084#325097084#0(0"0(0#0#98"/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.m8617717536#2406"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashScreenViewController.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325041242.492014
+e325041242.704218
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashScreenViewController.m325041242#325041242#0(0"0(0#0#91"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashScreenViewController.m8622398336#2329"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashScreenViewController.m -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashScreenViewController.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashTransitionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325093731.526637
+e325093731.706165
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashTransitionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashTransitionAppDelegate.m325093731#325093731#0(0"0(0#0#97"/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashTransitionAppDelegate.m8603147648#2386"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-gremegybysocyedgnckgfbiwzoba/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/Classes/SplashTransitionAppDelegate.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325097084.807175
+e325097084.930132
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.m325097084#325097084#0(0"0(0#0#99"/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.m8618132704#2408"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/SplashTransitionAppDelegate.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325041225.152680
+e325041225.320481
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m325041225#325041225#0(0"0(0#0#92"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m8623119680#2331"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Classes/SplashTransitionAppDelegate.m -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransitionAppDelegate.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/StartView.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325096861.652952
+e325096861.826533
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/StartView.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.m325096861#325096861#0(0"0(0#0#81"/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.m8614669216#2372"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/Classes/StartView.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/StartView.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325093731.525618
+e325093731.685774
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/main.m325093731#325093731#0(0"0(0#0#66"/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/main.m8604306112#2332"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-gremegybysocyedgnckgfbiwzoba/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/main.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325095359.943733
+e325095359.999725
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/main.m325095359#325095360#0(0"0(0#0#68"/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/main.m8619199488#2354"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/main.m -o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325040365.492975
+e325040365.660760
+r1
+xCompileC
+xbuild/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m325040365#325040365#0(0"0(0#0#61"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m8619293664#2277"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -include /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch -c /Users/engineer/Desktop/psholtz/xcode/SplashTransition/main.m -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/MainWindow.xib
+r0
+
+CCompileXIB /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/MainWindow.xib
+r0
+
+CCompileXIB /Users/engineer/Desktop/psholtz/xcode/SplashTransition/MainWindow.xib
+s325040242.263163
+e325040242.613335
+r1
+xCompileXIB
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325040242#325040242#0(0"0(0#0#69"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/MainWindow.xib8619037664#627"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/MainWindow.nib /Users/engineer/Desktop/psholtz/xcode/SplashTransition/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SplashTransition.app/Default.png Default.png
+s325041370.759719
+e325041370.767296
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SplashTransition.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png325041370#325041370#0(0"0(0#0#66"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/Default.png8614870816#526"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/engineer/Desktop/psholtz/xcode/SplashTransition/Default.png /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app0#
+
+CGenerateDSYMFile /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+s325093732.479989
+e325093732.550308
+r1
+xGenerateDSYMFile
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/SplashTransition.app.dSYM build/Debug-iphonesimulator/SplashTransition.app/SplashTransition325093732#325093732#0(0"0(0#0#125"/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition8604005824#473"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition -o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM0#
+
+CGenerateDSYMFile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app.dSYM /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+s325097239.246482
+e325097239.266699
+r1
+xGenerateDSYMFile
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app.dSYM
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/SplashTransition.app.dSYM build/Debug-iphonesimulator/SplashTransition.app/SplashTransition325097239#325097239#0(0"0(0#0#127"/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition8605167904#479"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition -o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app.dSYM0#
+
+CGenerateDSYMFile /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+s325041242.728817
+e325041242.745249
+r1
+xGenerateDSYMFile
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/SplashTransition.app.dSYM build/Debug-iphonesimulator/SplashTransition.app/SplashTransition325041242#325041242#0(0"0(0#0#120"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition8621869632#458"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app.dSYM0#
+
+CLd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition normal i386
+s325093731.846292
+e325093732.479894
+r1
+xLd
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+xnormal
+xi386
+lSLF07#2@130"Link /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition325093731#325093732#0(0"0(0#0#0"8604693344#1050"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator -F/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator -filelist /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransition.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition0#
+
+CLd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition normal i386
+s325097239.219802
+e325097239.246389
+r1
+xLd
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+xnormal
+xi386
+lSLF07#2@132"Link /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition325097239#325097239#0(0"0(0#0#0"8607828864#1060"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -F/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -filelist /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransition.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition0#
+
+CLd /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition normal i386
+s325041242.704312
+e325041242.728716
+r1
+xLd
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition
+xnormal
+xi386
+lSLF07#2@125"Link /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition325041242#325041242#0(0"0(0#0#0"8621909664#1025"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -filelist /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/Objects-normal/i386/SplashTransition.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/SplashTransition0#
+
+CProcessInfoPlistFile /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Info.plist SplashTransition-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app/Info.plist SplashTransition-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Info.plist SplashTransition-Info.plist
+s325041084.867763
+e325041084.873900
+r1
+xProcessInfoPlistFile
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Info.plist
+xSplashTransition-Info.plist
+lSLF07#2@35"Process SplashTransition-Info.plist325041084#325041084#0(0"0(0#0#82"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition-Info.plist8622639040#554"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SplashTransition-Info.plist -genpkginfo /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app/Info.plist0#
+
+CProcessPCH /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-aibbmnzrjdrpkleghfopyrhzszup/SplashTransition_Prefix.pch.pth SplashTransition_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s325040324.150129
+e325040324.445701
+r1
+xProcessPCH
+x/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-aibbmnzrjdrpkleghfopyrhzszup/SplashTransition_Prefix.pch.pth
+xSplashTransition_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@38"Precompile SplashTransition_Prefix.pch325040324#325040324#0(0"0(0#0#82"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition_Prefix.pch8620051968#2135"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -c /Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition_Prefix.pch -o /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-aibbmnzrjdrpkleghfopyrhzszup/SplashTransition_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch.gch SplashTransition_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325040242.613459
+e325040243.482736
+r1
+xProcessPCH
+x/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch.gch
+xSplashTransition_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SplashTransition_Prefix.pch325040242#325040243#0(0"0(0#0#82"/Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition_Prefix.pch8618073920#2144"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -c /Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition_Prefix.pch -o /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-ayhazoedlzjlmhheunwvdwjccqnz/SplashTransition_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch.gch SplashTransition_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325095359.131556
+e325095359.943629
+r1
+xProcessPCH
+x/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch.gch
+xSplashTransition_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SplashTransition_Prefix.pch325095359#325095359#0(0"0(0#0#89"/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/SplashTransition_Prefix.pch8617071104#2214"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -c /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/SplashTransition_Prefix.pch -o /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-erllgksxzmbpbkgrjwwujcycqstr/SplashTransition_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-gremegybysocyedgnckgfbiwzoba/SplashTransition_Prefix.pch.gch SplashTransition_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325093729.603514
+e325093731.525440
+r1
+xProcessPCH
+x/var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-gremegybysocyedgnckgfbiwzoba/SplashTransition_Prefix.pch.gch
+xSplashTransition_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SplashTransition_Prefix.pch325093729#325093731#0(0"0(0#0#87"/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/SplashTransition_Prefix.pch7813836816753255424#2194"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-generated-files.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-own-target-headers.hmap -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-all-target-headers.hmap -iquote /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/SplashTransition-project-headers.hmap -F/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/include -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources/i386 -I/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/SplashTransition.build/Debug-iphonesimulator/SplashTransition.build/DerivedSources -c /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/SplashTransition_Prefix.pch -o /var/folders/Hf/Hf1Nxk88Ga0XliynKoYEGYukqTQ/-Caches-/com.apple.Xcode.1320212983/SharedPrecompiledHeaders/SplashTransition_Prefix-gremegybysocyedgnckgfbiwzoba/SplashTransition_Prefix.pch.gch0#
+
+CTouch /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app
+s325093732.550398
+e325093732.587541
+r1
+xTouch
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app
+lSLF07#2@114"Touch /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app325093732#325093732#0(0"0(0#0#0"8599996928#329"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app0#
+
+CTouch /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app
+s325097239.266785
+e325097239.269201
+r1
+xTouch
+x/Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app
+lSLF07#2@116"Touch /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app325097239#325097239#0(0"0(0#0#0"8605043904#333"    cd /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/engineer/Desktop/psholtz/github/iOS/SplashVariationOne/build/Debug-iphonesimulator/SplashTransition.app0#
+
+CTouch /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app
+s325041370.767818
+e325041370.771156
+r1
+xTouch
+x/Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app
+lSLF07#2@109"Touch /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app325041370#325041370#0(0"0(0#0#0"8622677696#319"    cd /Users/engineer/Desktop/psholtz/xcode/SplashTransition    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/engineer/Desktop/psholtz/xcode/SplashTransition/build/Debug-iphonesimulator/SplashTransition.app0#
+

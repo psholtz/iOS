@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* SplashTransitionAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {942, 393}}";
-			sepNavSelRange = "{403, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {942, 405}}";
+			sepNavSelRange = "{221, 46}";
 			sepNavVisRange = "{0, 411}";
 		};
 	};
 	1D3623250D0F684500981E51 /* SplashTransitionAppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {942, 455}}";
-			sepNavSelRange = "{141, 0}";
-			sepNavVisRange = "{0, 722}";
+			sepNavSelRange = "{409, 159}";
+			sepNavVisRange = "{0, 724}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* SplashTransition */ = {
@@ -38,7 +38,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					439,
+					764,
 					20,
 					48,
 					43,
@@ -55,18 +55,18 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 325040560;
-			PBXWorkspaceStateSaveDate = 325040560;
+			PBXPerProjectTemplateStateSaveDate = 325093724;
+			PBXWorkspaceStateSaveDate = 325093724;
 		};
 		perUserProjectItems = {
+			E80B4C5A13608FBD002A071F /* PBXTextBookmark */ = E80B4C5A13608FBD002A071F /* PBXTextBookmark */;
+			E80B4C5B13608FBD002A071F /* PBXTextBookmark */ = E80B4C5B13608FBD002A071F /* PBXTextBookmark */;
+			E80B4C5C13608FBD002A071F /* PBXTextBookmark */ = E80B4C5C13608FBD002A071F /* PBXTextBookmark */;
+			E80B4C5D13608FBD002A071F /* PBXTextBookmark */ = E80B4C5D13608FBD002A071F /* PBXTextBookmark */;
+			E80B4C5E13608FBD002A071F /* PBXTextBookmark */ = E80B4C5E13608FBD002A071F /* PBXTextBookmark */;
 			E8201D01135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D01135FBD5400EAE8B1 /* PBXTextBookmark */;
-			E8201D02135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D02135FBD5400EAE8B1 /* PBXTextBookmark */;
 			E8201D03135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D03135FBD5400EAE8B1 /* PBXTextBookmark */;
 			E8201D04135FBD5400EAE8B1 /* PlistBookmark */ = E8201D04135FBD5400EAE8B1 /* PlistBookmark */;
-			E8201D05135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D05135FBD5400EAE8B1 /* PBXTextBookmark */;
-			E8201D06135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D06135FBD5400EAE8B1 /* PBXTextBookmark */;
-			E8201D07135FBD5400EAE8B1 /* PBXTextBookmark */ = E8201D07135FBD5400EAE8B1 /* PBXTextBookmark */;
-			E8201D1D135FBD9700EAE8B1 /* PBXTextBookmark */ = E8201D1D135FBD9700EAE8B1 /* PBXTextBookmark */;
 		};
 		sourceControlManager = E8C7436D135FB883005AB541 /* Source Control */;
 		userBuildSettings = {
@@ -86,18 +86,68 @@
 			sepNavVisRange = "{0, 201}";
 		};
 	};
+	E80B4C5A13608FBD002A071F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E8201CBA135FBAFE00EAE8B1 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 23";
+		rLen = 259;
+		rLoc = 511;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 36;
+	};
+	E80B4C5B13608FBD002A071F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E8201CBB135FBAFE00EAE8B1 /* SplashScreenViewController.m */;
+		name = "SplashScreenViewController.m: 11";
+		rLen = 1929;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 1342;
+	};
+	E80B4C5C13608FBD002A071F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SplashTransitionAppDelegate.h */;
+		name = "SplashTransitionAppDelegate.h: 12";
+		rLen = 46;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	E80B4C5D13608FBD002A071F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SplashTransitionAppDelegate.m */;
+		name = "SplashTransitionAppDelegate.m: 20";
+		rLen = 40;
+		rLoc = 528;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 0;
+	};
+	E80B4C5E13608FBD002A071F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SplashTransitionAppDelegate.m */;
+		name = "SplashTransitionAppDelegate.m: 18";
+		rLen = 159;
+		rLoc = 409;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 0;
+	};
 	E8201CBA135FBAFE00EAE8B1 /* SplashScreenViewController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {942, 455}}";
-			sepNavSelRange = "{56, 0}";
-			sepNavVisRange = "{57, 720}";
+			sepNavSelRange = "{511, 259}";
+			sepNavVisRange = "{36, 741}";
 		};
 	};
 	E8201CBB135FBAFE00EAE8B1 /* SplashScreenViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {942, 1157}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1149, 1105}}";
 			sepNavSelRange = "{400, 0}";
-			sepNavVisRange = "{60, 881}";
+			sepNavVisRange = "{60, 455}";
 		};
 	};
 	E8201D01135FBD5400EAE8B1 /* PBXTextBookmark */ = {
@@ -109,16 +159,6 @@
 		rType = 0;
 		vrLen = 268;
 		vrLoc = 0;
-	};
-	E8201D02135FBD5400EAE8B1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E8201CBA135FBAFE00EAE8B1 /* SplashScreenViewController.h */;
-		name = "SplashScreenViewController.h: 3";
-		rLen = 0;
-		rLoc = 56;
-		rType = 0;
-		vrLen = 720;
-		vrLoc = 57;
 	};
 	E8201D03135FBD5400EAE8B1 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -140,47 +180,7 @@
 		);
 		name = "/Users/engineer/Desktop/psholtz/xcode/SplashTransition/SplashTransition-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	E8201D05135FBD5400EAE8B1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* SplashTransitionAppDelegate.h */;
-		name = "SplashTransitionAppDelegate.h: 16";
-		rLen = 0;
-		rLoc = 403;
-		rType = 0;
-		vrLen = 411;
-		vrLoc = 0;
-	};
-	E8201D06135FBD5400EAE8B1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* SplashTransitionAppDelegate.m */;
-		name = "SplashTransitionAppDelegate.m: 8";
-		rLen = 0;
-		rLoc = 141;
-		rType = 0;
-		vrLen = 722;
-		vrLoc = 0;
-	};
-	E8201D07135FBD5400EAE8B1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E8201CBB135FBAFE00EAE8B1 /* SplashScreenViewController.m */;
-		name = "SplashScreenViewController.m: 15";
-		rLen = 0;
-		rLoc = 310;
-		rType = 0;
-		vrLen = 805;
-		vrLoc = 0;
-	};
-	E8201D1D135FBD9700EAE8B1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E8201CBB135FBAFE00EAE8B1 /* SplashScreenViewController.m */;
-		name = "SplashScreenViewController.m: 20";
-		rLen = 0;
-		rLoc = 400;
-		rType = 0;
-		vrLen = 881;
-		vrLoc = 60;
+		rLoc = 9223372036854775808;
 	};
 	E8C74358135FB866005AB541 /* SplashTransition */ = {
 		isa = PBXExecutable;
