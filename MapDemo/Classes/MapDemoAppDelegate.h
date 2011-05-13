@@ -8,15 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
+#define GET_DELEGATE MapDemoAppDelegate *appDelegate = (MapDemoAppDelegate*)[[UIApplication sharedApplication] delegate]
+
 @class MapViewController;
 
 @interface MapDemoAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
-	MapViewController *map;
+	UINavigationController *navController; 
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
-@property (nonatomic, retain) MapViewController *map; 
+@property (nonatomic, retain) IBOutlet UINavigationController *navController;
 
 @end
 

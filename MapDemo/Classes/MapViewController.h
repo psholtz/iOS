@@ -27,6 +27,7 @@ enum {	kMD_CurrentLocation, kMD_SanFrancisco, kMD_Stanford, kMD_LosAngeles, kMD_
 	NSArray *places;
 	NSArray *markers;
 	CLLocationManager *locationManager;
+	CLLocationCoordinate2D currentLocation;
 }
 
 @property (nonatomic,retain) IBOutlet UIView *mapContainer;
@@ -35,6 +36,9 @@ enum {	kMD_CurrentLocation, kMD_SanFrancisco, kMD_Stanford, kMD_LosAngeles, kMD_
 
 @property (nonatomic,retain) NSArray *places;
 @property (nonatomic,retain) NSArray *markers;
+
++ (NSArray*)PLACES;
++ (NSArray*)MARKERS;
 
 - (void)focusMap:(int)position; 
 

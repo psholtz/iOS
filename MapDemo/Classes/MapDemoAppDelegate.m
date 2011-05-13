@@ -12,19 +12,16 @@
 @implementation MapDemoAppDelegate
 
 @synthesize window;
-@synthesize map; 
-
+@synthesize navController;
+ 
 #pragma mark -
 #pragma mark Application lifecycle
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
     // add the view controller
-	MapViewController *temp = [[MapViewController alloc] initWithNibName:@"MapViewController" bundle:nil];
-	self.map = temp;
-	[self.window addSubview:self.map.view];
-	[temp release];
-    
+	[self.window addSubview:self.navController.view];
+	
 	// make window visible
     [self.window makeKeyAndVisible];
     
@@ -34,7 +31,7 @@
 #pragma mark -
 #pragma mark Memory management
 - (void)dealloc {
-	[map release];
+	[navController release];
     [window release];
     [super dealloc];
 }

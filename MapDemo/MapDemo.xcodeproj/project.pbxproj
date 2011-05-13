@@ -13,6 +13,8 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		E83393A7137DA03300664611 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E83393A5137DA03300664611 /* DetailViewController.m */; };
+		E83393A8137DA03300664611 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E83393A6137DA03300664611 /* DetailViewController.xib */; };
 		E83597E5137CAC4600A715C3 /* AlienMarker.m in Sources */ = {isa = PBXBuildFile; fileRef = E83597E4137CAC4600A715C3 /* AlienMarker.m */; };
 		E83598F2137CB3E300A715C3 /* UniversityMarker.m in Sources */ = {isa = PBXBuildFile; fileRef = E83598F1137CB3E300A715C3 /* UniversityMarker.m */; };
 		E8359A46137CBD3900A715C3 /* CustomPinView.m in Sources */ = {isa = PBXBuildFile; fileRef = E8359A45137CBD3900A715C3 /* CustomPinView.m */; };
@@ -21,6 +23,22 @@
 		E861ABED137B5F1700371EFE /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E861ABEC137B5F1700371EFE /* CoreLocation.framework */; };
 		E861ABEF137B5F1700371EFE /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E861ABEE137B5F1700371EFE /* MapKit.framework */; };
 		E861ACE1137B6B4100371EFE /* Marker.m in Sources */ = {isa = PBXBuildFile; fileRef = E861ACE0137B6B4100371EFE /* Marker.m */; };
+		E89336AE137DB8240095E427 /* paris-pin.png in Resources */ = {isa = PBXBuildFile; fileRef = E89336AD137DB8240095E427 /* paris-pin.png */; };
+		E89336F0137DBA410095E427 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = E89336EF137DBA410095E427 /* CustomImageView.m */; };
+		E8933721137DBBF50095E427 /* giza-pin.png in Resources */ = {isa = PBXBuildFile; fileRef = E8933720137DBBF50095E427 /* giza-pin.png */; };
+		E8933731137DBD420095E427 /* paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E8933730137DBD420095E427 /* paris.jpg */; };
+		E893375C137DCF1E0095E427 /* mit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E893375B137DCF1E0095E427 /* mit.jpg */; };
+		E8933767137DD0A10095E427 /* newyork.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E8933766137DD0A10095E427 /* newyork.jpg */; };
+		E893376E137DD1070095E427 /* rio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E893376D137DD1070095E427 /* rio.jpg */; };
+		E8933780137DD4460095E427 /* la.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E893377F137DD4460095E427 /* la.jpg */; };
+		E8933789137DD4B30095E427 /* stanford.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E8933788137DD4B30095E427 /* stanford.jpg */; };
+		E89337B2137DD7940095E427 /* sf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E89337B1137DD7940095E427 /* sf.jpg */; };
+		E89337BA137DD8440095E427 /* vatican.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E89337B9137DD8440095E427 /* vatican.jpg */; };
+		E8933823137DDD100095E427 /* seoul.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E8933822137DDD100095E427 /* seoul.jpg */; };
+		E893382E137DDD7A0095E427 /* tokyo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E893382D137DDD7A0095E427 /* tokyo.jpg */; };
+		E8933835137DDDF80095E427 /* kona.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E8933834137DDDF80095E427 /* kona.jpg */; };
+		E8933843137DDE5E0095E427 /* hongkong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E8933842137DDE5E0095E427 /* hongkong.jpg */; };
+		E893384C137DDEC70095E427 /* giza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E893384B137DDEC70095E427 /* giza.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +52,9 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* MapDemo_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapDemo_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* MapDemo-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MapDemo-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		E83393A4137DA03300664611 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		E83393A5137DA03300664611 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		E83393A6137DA03300664611 /* DetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DetailViewController.xib; path = Classes/DetailViewController.xib; sourceTree = "<group>"; };
 		E83597E3137CAC4600A715C3 /* AlienMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlienMarker.h; sourceTree = "<group>"; };
 		E83597E4137CAC4600A715C3 /* AlienMarker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlienMarker.m; sourceTree = "<group>"; };
 		E83598F0137CB3E300A715C3 /* UniversityMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UniversityMarker.h; sourceTree = "<group>"; };
@@ -47,6 +68,23 @@
 		E861ABEE137B5F1700371EFE /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		E861ACDF137B6B4100371EFE /* Marker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Marker.h; sourceTree = "<group>"; };
 		E861ACE0137B6B4100371EFE /* Marker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Marker.m; sourceTree = "<group>"; };
+		E89336AD137DB8240095E427 /* paris-pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "paris-pin.png"; sourceTree = "<group>"; };
+		E89336EE137DBA410095E427 /* CustomImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomImageView.h; sourceTree = "<group>"; };
+		E89336EF137DBA410095E427 /* CustomImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomImageView.m; sourceTree = "<group>"; };
+		E8933720137DBBF50095E427 /* giza-pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "giza-pin.png"; sourceTree = "<group>"; };
+		E8933730137DBD420095E427 /* paris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = paris.jpg; path = Backgrounds/paris.jpg; sourceTree = "<group>"; };
+		E893375B137DCF1E0095E427 /* mit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mit.jpg; path = Backgrounds/mit.jpg; sourceTree = "<group>"; };
+		E8933766137DD0A10095E427 /* newyork.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = newyork.jpg; path = Backgrounds/newyork.jpg; sourceTree = "<group>"; };
+		E893376D137DD1070095E427 /* rio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rio.jpg; path = Backgrounds/rio.jpg; sourceTree = "<group>"; };
+		E893377F137DD4460095E427 /* la.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = la.jpg; path = Backgrounds/la.jpg; sourceTree = "<group>"; };
+		E8933788137DD4B30095E427 /* stanford.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stanford.jpg; path = Backgrounds/stanford.jpg; sourceTree = "<group>"; };
+		E89337B1137DD7940095E427 /* sf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sf.jpg; path = Backgrounds/sf.jpg; sourceTree = "<group>"; };
+		E89337B9137DD8440095E427 /* vatican.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = vatican.jpg; path = Backgrounds/vatican.jpg; sourceTree = "<group>"; };
+		E8933822137DDD100095E427 /* seoul.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = seoul.jpg; path = Backgrounds/seoul.jpg; sourceTree = "<group>"; };
+		E893382D137DDD7A0095E427 /* tokyo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tokyo.jpg; path = Backgrounds/tokyo.jpg; sourceTree = "<group>"; };
+		E8933834137DDDF80095E427 /* kona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kona.jpg; path = Backgrounds/kona.jpg; sourceTree = "<group>"; };
+		E8933842137DDE5E0095E427 /* hongkong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = hongkong.jpg; path = Backgrounds/hongkong.jpg; sourceTree = "<group>"; };
+		E893384B137DDEC70095E427 /* giza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = giza.jpg; path = Backgrounds/giza.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +111,8 @@
 				1D3623250D0F684500981E51 /* MapDemoAppDelegate.m */,
 				E861AA58137B5A7500371EFE /* MapViewController.h */,
 				E861AA59137B5A7500371EFE /* MapViewController.m */,
+				E83393A4137DA03300664611 /* DetailViewController.h */,
+				E83393A5137DA03300664611 /* DetailViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -109,6 +149,9 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				E893372A137DBC9F0095E427 /* Backgrounds */,
+				E89336AC137DB81A0095E427 /* Pins */,
+				E83393A6137DA03300664611 /* DetailViewController.xib */,
 				E861AA5A137B5A7500371EFE /* MapViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* MapDemo-Info.plist */,
@@ -139,8 +182,39 @@
 				E83598F1137CB3E300A715C3 /* UniversityMarker.m */,
 				E8359A44137CBD3900A715C3 /* CustomPinView.h */,
 				E8359A45137CBD3900A715C3 /* CustomPinView.m */,
+				E89336EE137DBA410095E427 /* CustomImageView.h */,
+				E89336EF137DBA410095E427 /* CustomImageView.m */,
 			);
 			name = Views;
+			sourceTree = "<group>";
+		};
+		E89336AC137DB81A0095E427 /* Pins */ = {
+			isa = PBXGroup;
+			children = (
+				E8933720137DBBF50095E427 /* giza-pin.png */,
+				E89336AD137DB8240095E427 /* paris-pin.png */,
+			);
+			name = Pins;
+			sourceTree = "<group>";
+		};
+		E893372A137DBC9F0095E427 /* Backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				E893384B137DDEC70095E427 /* giza.jpg */,
+				E8933842137DDE5E0095E427 /* hongkong.jpg */,
+				E8933834137DDDF80095E427 /* kona.jpg */,
+				E893382D137DDD7A0095E427 /* tokyo.jpg */,
+				E8933822137DDD100095E427 /* seoul.jpg */,
+				E89337B9137DD8440095E427 /* vatican.jpg */,
+				E89337B1137DD7940095E427 /* sf.jpg */,
+				E8933788137DD4B30095E427 /* stanford.jpg */,
+				E893377F137DD4460095E427 /* la.jpg */,
+				E893376D137DD1070095E427 /* rio.jpg */,
+				E8933766137DD0A10095E427 /* newyork.jpg */,
+				E893375B137DCF1E0095E427 /* mit.jpg */,
+				E8933730137DBD420095E427 /* paris.jpg */,
+			);
+			name = Backgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -194,6 +268,22 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				E861AA5C137B5A7500371EFE /* MapViewController.xib in Resources */,
+				E83393A8137DA03300664611 /* DetailViewController.xib in Resources */,
+				E89336AE137DB8240095E427 /* paris-pin.png in Resources */,
+				E8933721137DBBF50095E427 /* giza-pin.png in Resources */,
+				E8933731137DBD420095E427 /* paris.jpg in Resources */,
+				E893375C137DCF1E0095E427 /* mit.jpg in Resources */,
+				E8933767137DD0A10095E427 /* newyork.jpg in Resources */,
+				E893376E137DD1070095E427 /* rio.jpg in Resources */,
+				E8933780137DD4460095E427 /* la.jpg in Resources */,
+				E8933789137DD4B30095E427 /* stanford.jpg in Resources */,
+				E89337B2137DD7940095E427 /* sf.jpg in Resources */,
+				E89337BA137DD8440095E427 /* vatican.jpg in Resources */,
+				E8933823137DDD100095E427 /* seoul.jpg in Resources */,
+				E893382E137DDD7A0095E427 /* tokyo.jpg in Resources */,
+				E8933835137DDDF80095E427 /* kona.jpg in Resources */,
+				E8933843137DDE5E0095E427 /* hongkong.jpg in Resources */,
+				E893384C137DDEC70095E427 /* giza.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -211,6 +301,8 @@
 				E83597E5137CAC4600A715C3 /* AlienMarker.m in Sources */,
 				E83598F2137CB3E300A715C3 /* UniversityMarker.m in Sources */,
 				E8359A46137CBD3900A715C3 /* CustomPinView.m in Sources */,
+				E83393A7137DA03300664611 /* DetailViewController.m in Sources */,
+				E89336F0137DBA410095E427 /* CustomImageView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
