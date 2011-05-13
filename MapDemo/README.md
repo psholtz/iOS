@@ -13,8 +13,6 @@ Demonstrated features include:
 * Using callouts on map annotations.
 * Using custom images on map annotations. 
 
-Look in the MapDragAndDropDemo for sample code on how to use draggable map annotations.
+Look in the MapDraggableDemo for sample code on how to use draggable map annotations.
 
 [![](http://farm3.static.flickr.com/2116/5716642267_a1d260c3ab.jpg)](http://farm3.static.flickr.com/2116/5716642267_a1d260c3ab.jpg) [![](http://farm3.static.flickr.com/2598/5717207280_ab25049991.jpg)](http://farm3.static.flickr.com/2598/5717207280_ab25049991.jpg)
-
-Test..
