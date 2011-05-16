@@ -1,8 +1,8 @@
 //
 //  main.m
-//  MapDraggableDemo
+//  MapDemo
 //
-//  Created by Engineer on 5/13/11.
+//  Created by Engineer on 5/16/11.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
