@@ -12,7 +12,7 @@ It's a quick python script that geocodes addresses:
 
 * Full JSON responses from Google are saved in a file named **GeoCode.out**. 
 
-Parsed output is written to console as its downloaded from Google:
+Parsed output is written to console as it is downloaded from Google:
 
 ```
 123 E 54th St, New York, NY 10022, USA : 40.759369 -73.971312
