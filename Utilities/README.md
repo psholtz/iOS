@@ -14,6 +14,18 @@ It's a quick python script that geocodes addresses:
 
 * Parsed output is written to console as its downloaded from Google.
 
+```
+123 E 54th St, New York, NY 10022, USA : 40.759369 -73.971312
+350 5th Ave, New York, NY 10001, USA : 40.74807 -73.984959
+1855 Broadway, New York, NY 10023, USA : 40.7696147 -73.9824137
+1st Ave & E 44th St, New York, NY 10017, USA : 40.7500828 -73.9687915
+405 Lexington Ave, New York, NY 10174, USA : 40.7519315 -73.975584
+Times Square, New York, NY, USA : 40.7560857 -73.9859448
+Church St, New York, NY 10006, USA : 40.71128 -74.01064
+30 Rockefeller Plaza, New York, NY 10112, USA : 40.759139 -73.979723
+830 5th Ave, New York, NY 10065, USA : 40.767393 -73.970695
+```
+
 [![](http://farm3.static.flickr.com/2116/5716642267_a1d260c3ab_m.jpg)](http://farm3.static.flickr.com/2116/5716642267_a1d260c3ab_m.jpg)
 
 UIDeviceHardware
