@@ -12,7 +12,7 @@ It's a quick python script that geocodes addresses:
 
 * Full JSON responses from Google are saved in a file named **GeoCode.out**. 
 
-* Parsed output is written to console as its downloaded from Google.
+Parsed output is written to console as its downloaded from Google:
 
 ```
 123 E 54th St, New York, NY 10022, USA : 40.759369 -73.971312
@@ -25,8 +25,6 @@ Church St, New York, NY 10006, USA : 40.71128 -74.01064
 30 Rockefeller Plaza, New York, NY 10112, USA : 40.759139 -73.979723
 830 5th Ave, New York, NY 10065, USA : 40.767393 -73.970695
 ```
-
-[![](http://farm3.static.flickr.com/2116/5716642267_a1d260c3ab_m.jpg)](http://farm3.static.flickr.com/2116/5716642267_a1d260c3ab_m.jpg)
 
 UIDeviceHardware
 ----------------
