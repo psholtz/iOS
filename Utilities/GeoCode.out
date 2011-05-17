@@ -1,0 +1,1056 @@
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "street_address" ],
+    "formatted_address": "123 E 54th St, New York, NY 10022, USA",
+    "address_components": [ {
+      "long_name": "123",
+      "short_name": "123",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "E 54th St",
+      "short_name": "E 54th St",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10022",
+      "short_name": "10022",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7593690,
+        "lng": -73.9713120
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7562214,
+          "lng": -73.9744596
+        },
+        "northeast": {
+          "lat": 40.7625166,
+          "lng": -73.9681644
+        }
+      }
+    }
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "street_address" ],
+    "formatted_address": "350 5th Ave, New York, NY 10001, USA",
+    "address_components": [ {
+      "long_name": "350",
+      "short_name": "350",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "5th Ave",
+      "short_name": "5th Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10001",
+      "short_name": "10001",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7480700,
+        "lng": -73.9849590
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7449224,
+          "lng": -73.9881066
+        },
+        "northeast": {
+          "lat": 40.7512176,
+          "lng": -73.9818114
+        }
+      }
+    }
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "street_address" ],
+    "formatted_address": "1855 Broadway, New York, NY 10023, USA",
+    "address_components": [ {
+      "long_name": "1855",
+      "short_name": "1855",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10023",
+      "short_name": "10023",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7696147,
+        "lng": -73.9824137
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7664671,
+          "lng": -73.9855613
+        },
+        "northeast": {
+          "lat": 40.7727623,
+          "lng": -73.9792661
+        }
+      }
+    }
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "intersection" ],
+    "formatted_address": "1st Ave & E 44th St, New York, NY 10017, USA",
+    "address_components": [ {
+      "long_name": "1st Ave",
+      "short_name": "1st Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10017",
+      "short_name": "10017",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7500828,
+        "lng": -73.9687915
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7469352,
+          "lng": -73.9719391
+        },
+        "northeast": {
+          "lat": 40.7532304,
+          "lng": -73.9656439
+        }
+      }
+    }
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "street_address" ],
+    "formatted_address": "405 Lexington Ave, New York, NY 10174, USA",
+    "address_components": [ {
+      "long_name": "405",
+      "short_name": "405",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "Lexington Ave",
+      "short_name": "Lexington Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10174",
+      "short_name": "10174",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7519315,
+        "lng": -73.9755840
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7487839,
+          "lng": -73.9787316
+        },
+        "northeast": {
+          "lat": 40.7550791,
+          "lng": -73.9724364
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "street_address" ],
+    "formatted_address": "405 Lexington Ave, Brooklyn, NY 11216, USA",
+    "address_components": [ {
+      "long_name": "405",
+      "short_name": "405",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "Lexington Ave",
+      "short_name": "Lexington Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Bedford - Stuyvesant",
+      "short_name": "Bedford - Stuyvesant",
+      "types": [ "neighborhood", "political" ]
+    }, {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "Kings",
+      "short_name": "Kings",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "11216",
+      "short_name": "11216",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.6881695,
+        "lng": -73.9467607
+      },
+      "location_type": "RANGE_INTERPOLATED",
+      "viewport": {
+        "southwest": {
+          "lat": 40.6850146,
+          "lng": -73.9499069
+        },
+        "northeast": {
+          "lat": 40.6913099,
+          "lng": -73.9436116
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 40.6881550,
+          "lng": -73.9467607
+        },
+        "northeast": {
+          "lat": 40.6881695,
+          "lng": -73.9467578
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "street_address" ],
+    "formatted_address": "405 Lexington Ave, New York, NY 10016, USA",
+    "address_components": [ {
+      "long_name": "405",
+      "short_name": "405",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "Lexington Ave",
+      "short_name": "Lexington Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7463644,
+        "lng": -73.9796619
+      },
+      "location_type": "RANGE_INTERPOLATED",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7432204,
+          "lng": -73.9828180
+        },
+        "northeast": {
+          "lat": 40.7495156,
+          "lng": -73.9765228
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 40.7463644,
+          "lng": -73.9796789
+        },
+        "northeast": {
+          "lat": 40.7463716,
+          "lng": -73.9796619
+        }
+      }
+    },
+    "partial_match": true
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "route" ],
+    "formatted_address": "Times Square, New York, NY, USA",
+    "address_components": [ {
+      "long_name": "Times Square",
+      "short_name": "Times Square",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7560857,
+        "lng": -73.9859448
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7547034,
+          "lng": -73.9884142
+        },
+        "northeast": {
+          "lat": 40.7609987,
+          "lng": -73.9821189
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 40.7554902,
+          "lng": -73.9873764
+        },
+        "northeast": {
+          "lat": 40.7602119,
+          "lng": -73.9831567
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "route" ],
+    "formatted_address": "1st Ave, New York, NY, USA",
+    "address_components": [ {
+      "long_name": "1st Ave",
+      "short_name": "1st Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7450385,
+        "lng": -73.9725582
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7348716,
+          "lng": -73.9801644
+        },
+        "northeast": {
+          "lat": 40.7554019,
+          "lng": -73.9652417
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 40.7348716,
+          "lng": -73.9801644
+        },
+        "northeast": {
+          "lat": 40.7554019,
+          "lng": -73.9652417
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "route" ],
+    "formatted_address": "Times Square, Friendship, NY 14739, USA",
+    "address_components": [ {
+      "long_name": "Times Square",
+      "short_name": "Times Square",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Friendship",
+      "short_name": "Friendship",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "Friendship",
+      "short_name": "Friendship",
+      "types": [ "administrative_area_level_3", "political" ]
+    }, {
+      "long_name": "Allegany",
+      "short_name": "Allegany",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "14739",
+      "short_name": "14739",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 42.1768386,
+        "lng": -78.1451868
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "southwest": {
+          "lat": 42.1732323,
+          "lng": -78.1476227
+        },
+        "northeast": {
+          "lat": 42.1795276,
+          "lng": -78.1413275
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 42.1746089,
+          "lng": -78.1462680
+        },
+        "northeast": {
+          "lat": 42.1781510,
+          "lng": -78.1426822
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "route" ],
+    "formatted_address": "Times Square, Olean, NY 14760, USA",
+    "address_components": [ {
+      "long_name": "Times Square",
+      "short_name": "Times Square",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Olean",
+      "short_name": "Olean",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "Cattaraugus",
+      "short_name": "Cattaraugus",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "14760",
+      "short_name": "14760",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 42.0780080,
+        "lng": -78.4290192
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "southwest": {
+          "lat": 42.0750404,
+          "lng": -78.4320207
+        },
+        "northeast": {
+          "lat": 42.0813356,
+          "lng": -78.4257255
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 42.0780080,
+          "lng": -78.4298590
+        },
+        "northeast": {
+          "lat": 42.0783680,
+          "lng": -78.4278872
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "route" ],
+    "formatted_address": "1st Ave, New York, NY 10017, USA",
+    "address_components": [ {
+      "long_name": "1st Ave",
+      "short_name": "1st Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10017",
+      "short_name": "10017",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7494270,
+        "lng": -73.9694460
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7474707,
+          "lng": -73.9716573
+        },
+        "northeast": {
+          "lat": 40.7537659,
+          "lng": -73.9653620
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 40.7480231,
+          "lng": -73.9704786
+        },
+        "northeast": {
+          "lat": 40.7532135,
+          "lng": -73.9665407
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "point_of_interest", "establishment" ],
+    "formatted_address": "Times Square Alliance, 1560 Broadway # 800, New York, NY 10036-1537, USA",
+    "address_components": [ {
+      "long_name": "Times Square Alliance",
+      "short_name": "Times Square Alliance",
+      "types": [ "point_of_interest", "establishment" ]
+    }, {
+      "long_name": "1560",
+      "short_name": "1560",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "Broadway # 800",
+      "short_name": "Broadway # 800",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10036-1537",
+      "short_name": "10036-1537",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7590120,
+        "lng": -73.9849890
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7558644,
+          "lng": -73.9881366
+        },
+        "northeast": {
+          "lat": 40.7621596,
+          "lng": -73.9818414
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "point_of_interest", "church", "place_of_worship", "establishment" ],
+    "formatted_address": "Times Square Church, New York, NY 10036, USA",
+    "address_components": [ {
+      "long_name": "Times Square Church",
+      "short_name": "Times Square Church",
+      "types": [ "point_of_interest", "establishment" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10036",
+      "short_name": "10036",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7593695,
+        "lng": -73.9851459
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7562219,
+          "lng": -73.9882935
+        },
+        "northeast": {
+          "lat": 40.7625171,
+          "lng": -73.9819983
+        }
+      }
+    },
+    "partial_match": true
+  }, {
+    "types": [ "route" ],
+    "formatted_address": "Penn Plaza, New York, NY, USA",
+    "address_components": [ {
+      "long_name": "Penn Plaza",
+      "short_name": "Penn Plaza",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7503208,
+        "lng": -73.9911806
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7476519,
+          "lng": -73.9957119
+        },
+        "northeast": {
+          "lat": 40.7539471,
+          "lng": -73.9894167
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 40.7490130,
+          "lng": -73.9939480
+        },
+        "northeast": {
+          "lat": 40.7525860,
+          "lng": -73.9911806
+        }
+      }
+    },
+    "partial_match": true
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "route" ],
+    "formatted_address": "Church St, New York, NY 10006, USA",
+    "address_components": [ {
+      "long_name": "Church St",
+      "short_name": "Church St",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10006",
+      "short_name": "10006",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7112800,
+        "lng": -74.0106400
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7083473,
+          "lng": -74.0141871
+        },
+        "northeast": {
+          "lat": 40.7146425,
+          "lng": -74.0078919
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 40.7110530,
+          "lng": -74.0117170
+        },
+        "northeast": {
+          "lat": 40.7119368,
+          "lng": -74.0103620
+        }
+      }
+    },
+    "partial_match": true
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "street_address" ],
+    "formatted_address": "30 Rockefeller Plaza, New York, NY 10112, USA",
+    "address_components": [ {
+      "long_name": "30",
+      "short_name": "30",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "Rockefeller Plaza",
+      "short_name": "Rockefeller Plaza",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10112",
+      "short_name": "10112",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7591390,
+        "lng": -73.9797230
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7559914,
+          "lng": -73.9828706
+        },
+        "northeast": {
+          "lat": 40.7622866,
+          "lng": -73.9765754
+        }
+      }
+    }
+  } ]
+}
+
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "street_address" ],
+    "formatted_address": "830 5th Ave, New York, NY 10065, USA",
+    "address_components": [ {
+      "long_name": "830",
+      "short_name": "830",
+      "types": [ "street_number" ]
+    }, {
+      "long_name": "5th Ave",
+      "short_name": "5th Ave",
+      "types": [ "route" ]
+    }, {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    }, {
+      "long_name": "10065",
+      "short_name": "10065",
+      "types": [ "postal_code" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 40.7673930,
+        "lng": -73.9706950
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "southwest": {
+          "lat": 40.7642454,
+          "lng": -73.9738426
+        },
+        "northeast": {
+          "lat": 40.7705406,
+          "lng": -73.9675474
+        }
+      }
+    }
+  } ]
+}
