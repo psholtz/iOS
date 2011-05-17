@@ -4,7 +4,7 @@ Utilities
 GeoCode.py
 ---------- 
 
-Technically speaking, this isn't iOS Objective-C code, but I do use this code somewhat frequently in my iOS work.
+Strictly speaking, this isn't iOS Objective-C code, although I do use this code somewhat frequently when developing on iOS.
 
 It's a quick python script that geocodes addresses:
 
