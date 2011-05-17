@@ -1,6 +1,19 @@
 Utilities
 =========
 
+GeoCode.py
+---------- 
+
+Technically speaking, this isn't iOS Objective-C code, but I do use this code rather frequently in my iOS work.
+
+It's a quick python script that geocodes addresses. 
+
+Addresses are supplied in a file named GeoCode.in.
+
+Full JSON responses from Google are saved in a file named GeoCode.out. 
+
+Parsed output is written to console as its downloaded from Google.
+
 UIDeviceHardware
 ----------------
 
