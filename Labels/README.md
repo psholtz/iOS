@@ -7,3 +7,4 @@ The code demonstrates how to style up and customize UITextField objects in vario
 
 Also demonstrates the use of customized fonts with UITextField objects.
 
+[![](http://farm6.static.flickr.com/5108/5735156120_43f5f33bc4.jpg)](http://farm6.static.flickr.com/5108/5735156120_43f5f33bc4.jpg)
