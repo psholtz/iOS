@@ -1,0 +1,189 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CADemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {495, 302}}";
+			sepNavSelRange = "{441, 0}";
+			sepNavVisRange = "{0, 449}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CADemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 819}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{27, 625}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CADemo */ = {
+		activeExec = 0;
+		executables = (
+			F083EA1A14009DF500C6BA90 /* CADemo */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F083EA1A14009DF500C6BA90 /* CADemo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CADemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CADemo */,
+		);
+		codeSenseManager = F083EA2E14009E0300C6BA90 /* Code sense */;
+		executables = (
+			F083EA1A14009DF500C6BA90 /* CADemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					305,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 335584757;
+			PBXWorkspaceStateSaveDate = 335584757;
+		};
+		perUserProjectItems = {
+			F083EA4C14009E9B00C6BA90 /* PBXTextBookmark */ = F083EA4C14009E9B00C6BA90 /* PBXTextBookmark */;
+			F083EA6114009F1500C6BA90 /* PBXTextBookmark */ = F083EA6114009F1500C6BA90 /* PBXTextBookmark */;
+			F083EB171400A4C200C6BA90 /* PlistBookmark */ = F083EB171400A4C200C6BA90 /* PlistBookmark */;
+			F083EB6F1400A79400C6BA90 /* PBXTextBookmark */ = F083EB6F1400A79400C6BA90 /* PBXTextBookmark */;
+			F083EB701400A79400C6BA90 /* PBXTextBookmark */ = F083EB701400A79400C6BA90 /* PBXTextBookmark */;
+			F083F0AB1400B31800C6BA90 /* PBXTextBookmark */ = F083F0AB1400B31800C6BA90 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F083EA2D14009E0300C6BA90 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F083EA1A14009DF500C6BA90 /* CADemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CADemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F083EA2D14009E0300C6BA90 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F083EA2E14009E0300C6BA90 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F083EA3014009E2000C6BA90 /* SampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {483, 442}}";
+			sepNavSelRange = "{531, 0}";
+			sepNavVisRange = "{198, 513}";
+		};
+	};
+	F083EA3114009E2000C6BA90 /* SampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1755, 1612}}";
+			sepNavSelRange = "{3400, 0}";
+			sepNavVisRange = "{2268, 1190}";
+		};
+	};
+	F083EA4C14009E9B00C6BA90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CADemoAppDelegate.h */;
+		name = "CADemoAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	F083EA6114009F1500C6BA90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CADemoAppDelegate.m */;
+		name = "CADemoAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 625;
+		vrLoc = 27;
+	};
+	F083EB171400A4C200C6BA90 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CADemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/buyer/Documents/X-Code Projects/Web/REPOS/Work/sholtz9421/Newton/1.0.1/CADemo/CADemo-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	F083EB6F1400A79400C6BA90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F083EA3014009E2000C6BA90 /* SampleViewController.h */;
+		name = "SampleViewController.h: 24";
+		rLen = 0;
+		rLoc = 531;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 198;
+	};
+	F083EB701400A79400C6BA90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F083EA3114009E2000C6BA90 /* SampleViewController.m */;
+		name = "SampleViewController.m: 84";
+		rLen = 0;
+		rLoc = 3456;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 2408;
+	};
+	F083F0AB1400B31800C6BA90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F083EA3114009E2000C6BA90 /* SampleViewController.m */;
+		name = "SampleViewController.m: 95";
+		rLen = 0;
+		rLoc = 3400;
+		rType = 0;
+		vrLen = 1190;
+		vrLoc = 2268;
+	};
+}
